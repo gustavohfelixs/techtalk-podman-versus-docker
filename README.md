@@ -22,7 +22,7 @@ que foram exploradas pelo Docker_" [¹](https://docs.docker.com/get-started/) - 
 ### Projeto
 Aqui trabalharemos com um projeto **Spring Batch** que vai ler um arquivo csv (separado por vírgulas, conhecido como _excel_)
 e vamos persistir as informações em uma base de dados, porém estamos em um cenário onde no meu computador para exemplificar não 
-tenho MySql instalado. Então vamos utilizar o Podman para rodar um docker-compose e subir um Banco de dados novinho em folha.
+tenho MySql instalado. Então vamos utilizar o Podman para rodar um docker-compose e subir um Banco de dados novinho em folha via container.
 
 *Este é um projeto Básico de Spring Batch - Bons estudos! Para uma intodrução ao assunto recomendo esta [vídeo-aula] (PROJETO DE REFERÊNCIA NO LINK)(https://www.youtube.com/watch?v=6iDzOi2YWxA) e o [livro](https://github.com/gustavohfelixs/Ebook-The-Definitive-guide-to-spring-batch-modern-finite-batch-processing)**
 
