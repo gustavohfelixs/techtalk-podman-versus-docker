@@ -74,7 +74,7 @@ A aplicação lê esses dados coluna a coluna, processa e joga tudo em um banco 
 
 ### Docker/Podman compose
 
-![img.png](src/main/resources/imgs/img.png)
+![img.png](src/main/resources/imgs/as.png)
 
 #### Aqui podemos ver as informações do nosso compose.yaml.
 ` image: ` -  a imagem que será usada para formar o nosso container, neste caso - Mysql
