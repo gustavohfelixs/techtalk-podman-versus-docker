@@ -11,4 +11,4 @@ VALUES(
     :codigo,
     :valor,
     :fornecedor
-    )
+    );
